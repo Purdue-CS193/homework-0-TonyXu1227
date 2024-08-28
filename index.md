@@ -1,3 +1,9 @@
+# Tony's First CS193 Homework
+Things I like about CS 193
+- It helps me navigate the tools I need to code.
+- Its a more friendly class taught by students not professors.
+- Its only once a week.
+- There are no midterms!!
 ## Welcome to Tony's GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
