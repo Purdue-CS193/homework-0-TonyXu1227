@@ -1,3 +1,4 @@
+theme: jekyll-theme-dinky
 # Tony's First CS193 Homework
 Things I like about CS 193
 - It helps me navigate the tools I need to code.
